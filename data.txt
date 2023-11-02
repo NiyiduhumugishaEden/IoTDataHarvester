@@ -27,3 +27,4 @@ Heart Rate: 83.33 BPM
 Heart Rate: 55.25 BPM
 Heart Rate: 55.87 BPM
 Heart Rate: 36.01 BPM
+33.90
